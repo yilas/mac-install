@@ -11,7 +11,7 @@ brew update
 # apps
 echo Installing desktop apps...
 #brew install --cask google-chrome iterm2 discord spotify folx dropbox adobe-acrobat-reader ledger-live textmate skype slack firefox vlc zoom viber microsoft-edge openemu anydesk microsoft-office steam time-out
-brew install --cask iterm2 discord spotify folx dropbox textmate skype slack firefox vlc zoom viber microsoft-edge openemu anydesk microsoft-office steam time-out
+brew install --cask iterm2 discord dropbox textmate skype slack firefox vlc zoom viber microsoft-edge openemu anydesk microsoft-office steam time-out
 
 # utils
 echo Installing utilities...
